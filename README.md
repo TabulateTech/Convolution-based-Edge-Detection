@@ -19,17 +19,7 @@ Calculates the gradient in the x and y directions using the Sobel operator.
 Calculates the magnitude and direction of the gradient.
 Identifies edge points based on the gradient information and a threshold.
 Displays the original image, gradient magnitude, gradient direction, and the identified edges.
-Waits for a key press before exiting the program.
+
+
 Dependencies
-The code requires the following dependencies:
-
-OpenCV 2 library
-Usage
-To use this code, follow these steps:
-
 Install OpenCV 2 library on your system.
-Clone this repository to your local machine or download the code files.
-Update the file path in the main function to the location of the image you want to process.
-Compile and run the code using a C++ compiler with OpenCV 2 library linked.
-View the displayed images to observe the original image, gradient magnitude, gradient direction, and the identified edges.
-Feel free to modify the code according to your requirements and experiment with different images and parameters to achieve desired edge detection results.
